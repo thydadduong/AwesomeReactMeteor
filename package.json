@@ -27,7 +27,5 @@
     },
     "testModule": "tests/main.js"
   },
-  "devDependencies": {
-    "meteor-desktop": "^1.6.0"
-  }
+  "devDependencies": {}
 }
